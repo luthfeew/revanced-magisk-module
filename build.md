@@ -1,5 +1,4 @@
 YouTube: 18.38.44  
-YouTube-Extended: 18.37.36  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
@@ -8,11 +7,11 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.0.2-all.jar  
-Integrations: inotia00/revanced-integrations-0.119.15.apk  
-Patches: inotia00/revanced-patches-2.193.15.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.193.15)
+Integrations: inotia00/revanced-integrations-0.119.18.apk  
+Patches: inotia00/revanced-patches-2.193.18.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.193.18)
 
 CLI: j-hc/revanced-cli-4.0.2-all.jar  
-Integrations: ReVanced/revanced-integrations-0.119.2.apk  
-Patches: ReVanced/revanced-patches-2.194.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.194.0)  
+Integrations: ReVanced/revanced-integrations-0.120.0.apk  
+Patches: ReVanced/revanced-patches-2.195.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.195.0)  
